@@ -1,20 +1,22 @@
 # 🌐 ChoZan
 
-Welcome to the official GitHub organization of **ChoZan**.
+Welcome to the official GitHub organization of **ChoZan** — where global innovation meets China's future.
 
-🔗 https://chozan.co
+**🔗 https://chozan.co** · **📧 info@chozan.co** · **📞 +852 3709 2259**
 
 ---
 
 ## 🌏 About ChoZan
 
-ChoZan is a Hong Kong–based consulting and research company helping organizations **understand, learn from, and succeed in China’s fast-evolving market**.
+**ChoZan** (超赞 — "Chāo Zàn") is a Hong Kong–based immersive education, insights, and research firm founded by **Ashley Dudarenok**.
 
-We work with global brands, technology companies, and leadership teams to turn complex market dynamics into **clear, actionable strategies**.
+**Our Mission:** Help global companies **learn FROM China** — apply Chinese innovation, digital leadership, and future-thinking to their own businesses.
+
+We work with multinational corporations, global brands, and leadership teams to turn complex market dynamics into **clear, actionable strategies**.
 
 > **Learn for China. Learn from China.**
 
-China is not just a market — it is one of the world’s most advanced ecosystems for digital, retail, and consumer innovation. ChoZan helps bridge that gap by translating insights into practical business knowledge. [1](https://chozan.co/)
+China is not just a market — it is one of the world's most advanced ecosystems for digital, retail, and consumer innovation. ChoZan bridges that gap by delivering immersive experiences, deep research, and expert insights that translate into real business impact.
 
 ---
 
@@ -23,40 +25,48 @@ China is not just a market — it is one of the world’s most advanced ecosyste
 Our work spans several core areas:
 
 ### 🔍 Research & Market Insights
+
 We provide deep analysis of:
-- Consumer behavior  
-- Market trends  
-- Competitive landscapes  
+
+- Consumer behavior
+- Market trends
+- Competitive landscapes
 
 Helping teams make informed, confident decisions in complex environments. [2](https://chozan.co/china-research/)
 
 ---
 
 ### 🧭 Strategy & Consulting
+
 We support organizations with:
-- Market entry and expansion strategies  
-- Digital and marketing transformation guidance  
-- Expert insights and advisory sessions  
+
+- Market entry and expansion strategies
+- Digital and marketing transformation guidance
+- Expert insights and advisory sessions
 
 Our goal is simple: turn insight into action. [3](https://staging.chozan.co/china-business-consulting/)
 
 ---
 
 ### 🇨🇳 Learning Expeditions & Innovation Tours
+
 We design immersive experiences in China that allow teams to:
-- Explore leading companies and ecosystems  
-- Meet operators, founders, and experts  
-- Gain firsthand understanding of market realities  
+
+- Explore leading companies and ecosystems
+- Meet operators, founders, and experts
+- Gain firsthand understanding of market realities
 
 These programs help leaders see what’s shaping the future — up close. [1](https://chozan.co/)
 
 ---
 
 ### 🎤 Training, Keynotes & Workshops
+
 Through talks, workshops, and tailored training programs, we help teams:
-- Stay ahead of trends  
-- Upskill in digital and consumer strategy  
-- Apply best practices from the China market  
+
+- Stay ahead of trends
+- Upskill in digital and consumer strategy
+- Apply best practices from the China market
 
 ---
 
@@ -64,10 +74,10 @@ Through talks, workshops, and tailored training programs, we help teams:
 
 This GitHub space brings together projects, tools, and experiments that support how we:
 
-- Organize and analyze research  
-- Explore new approaches to business development  
-- Build internal tools for insights and workflows  
-- Prototype ideas that improve how research and strategy are done  
+- Organize and analyze research
+- Explore new approaches to business development
+- Build internal tools for insights and workflows
+- Prototype ideas that improve how research and strategy are done
 
 Some projects are early-stage, others more developed — all reflect our ongoing effort to improve how knowledge is created and used.
 
@@ -75,13 +85,26 @@ Some projects are early-stage, others more developed — all reflect our ongoing
 
 ## 🌟 Who We Work With
 
-ChoZan supports:
-- Multinational corporations  
-- Global brands  
-- Technology companies  
-- Strategy, innovation, and marketing teams  
+ChoZan works with:
 
-Our clients include leading organizations across industries looking to better understand China and apply its lessons globally. [4](https://www.linkedin.com/company/chozan)
+- **Multinational corporations** (Coca-Cola, HSBC, J&J, InMobi)
+- **Global brands** (Disneyland, Richemont, Shiseido, Deckers)
+- **Technology and innovation teams**
+- **Strategy, marketing, and e-commerce leadership**
+
+Our clients represent industries spanning retail, healthcare, technology, beverages, luxury goods, and financial services — all united by their drive to learn from China and apply those insights to compete globally.
+
+---
+
+## 💡 Content & Thought Leadership
+
+ChoZan is committed to sharing knowledge with the world. Our thought leadership spans:
+
+- **11 books** on Digital China (2017–2020), covering New Retail, social commerce, and consumer behavior
+- **Research reports:** _China Mega Report 2025_, _Top 25 China Tech Innovators 2026_, _Top 12 China Consumer Trends 2026_
+- **YouTube:** 393K+ subscribers exploring Chinese innovation, digital transformation, and emerging markets
+- **LinkedIn:** 103K+ followers engaged in strategic insights and market analysis
+- **Newsletter:** 25K+ subscribers with 45–70% open rates, delivering curated insights on China's business landscape
 
 ---
 
@@ -90,17 +113,20 @@ Our clients include leading organizations across industries looking to better un
 We believe in sharing knowledge and building openly.
 
 You’re welcome to:
-- Explore our repositories  
-- Follow ongoing work  
-- Contribute ideas or improvements  
+
+- Explore our repositories
+- Follow ongoing work
+- Contribute ideas or improvements
 
 ---
 
-## 📬 Learn More
+## 📬 Get in Touch
 
-🌍 Website: https://chozan.co  
+**🌍 Website:** https://chozan.co  
+**📧 Email:** info@chozan.co  
+**📞 Phone:** +852 3709 2259
 
-For partnerships, collaboration, or inquiries, please contact us through our website.
+For partnerships, collaboration, speaking engagements, or custom programs, reach out to us directly.
 
 ---
 
